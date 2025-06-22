@@ -1,0 +1,13 @@
+{
+    "contract_type": "VanillaCall",
+    "spot": 50.0,
+    "maturity": 0.5,
+    "strike": 40.0,
+    "ir": 0.03,
+    "vol": 0.25,
+    "algorithm_type": "MonteCarlo",
+    "control_params": {
+        "n_sample_paths": 100000,
+        "use_control_variate": "true"
+    }
+}

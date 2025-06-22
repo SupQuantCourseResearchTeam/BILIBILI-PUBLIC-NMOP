@@ -1,0 +1,9 @@
+{
+    "contract_type": "VanillaCall",
+    "spot": 50.0,
+    "maturity": 0.5,
+    "strike": 40.0,
+    "ir": 0.03,
+    "vol": 0.25,
+    "algorithm_type": "Analytical"
+}

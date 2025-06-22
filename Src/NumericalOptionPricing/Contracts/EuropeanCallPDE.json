@@ -1,0 +1,13 @@
+{
+    "contract_type": "VanillaCall",
+    "spot": 50.0,
+    "maturity": 0.5,
+    "strike": 40.0,
+    "ir": 0.03,
+    "vol": 0.25,
+    "algorithm_type": "PDE",
+    "control_params": {
+        "n_steps_S": 100,
+        "n_steps_T": 100
+    }
+}
